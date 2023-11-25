@@ -31,12 +31,5 @@ public class Pokemon {
         this.url = url;
     }
 
-    // toString method for easy printing
-    @Override
-    public String toString() {
-        return "Pokemon{" +
-                "name='" + name + '\'' +
-                ", url='" + url + '\'' +
-                '}';
-    }
+
 }
